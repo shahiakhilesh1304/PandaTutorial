@@ -9,7 +9,7 @@ This you need to do while learning
 - Fork [Project](https://github.com/shahiakhilesh1304/PandaTutorial.git) into your repository.
 - Clone into your local directory
     - click on the code in your repository. and code the path
-        ![alt text](https://github.com/shahiakhilesh1304/PandaTutorial/blob/main/misc/clone.png)
+![alt text](https://github.com/shahiakhilesh1304/PandaTutorial/blob/main/misc/clone.png)
         ```
           git clone <link_to_your_project_in_your_repository>
         ```
@@ -31,7 +31,12 @@ This you need to do while learning
 
 EVERYONE IS WELCOME TO MAKE SUGGESTIONS AND PROVIDE THEIR INPUT.
 YOU CAN CONTRIBUTE TO THIS REPOSITORY WITH MORE IDEAS AND CASE STUDIES.
-###NOTE:-
+
+
+
+### NOTE:-
+
+
 **ADD YOU CASE STUDY IN A CASE STUDY FOLDER WITH A NAME OF THE CASE STUDY AS A FOLDER AND KEEP IT REQUIREMENT IN SUBFOLDER NAMEING Requirements IN SUBFODLER OF Requirements CREATE A FOLDER DataSet ADD YOUR DATA SET INTO THAT. Also, Edit the Changes in this file and add your Folder Name to this readme.md file following with the link as below**
 
 ```
