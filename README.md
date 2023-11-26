@@ -8,7 +8,8 @@ This you need to do while learning
 - Download Jupyter Notebook so that you can edit and work with code in that
 - Fork [Project](https://github.com/shahiakhilesh1304/PandaTutorial.git) into your repository.
 - Clone into your local directory
-    - click on the code in your repository. and code the path <p><img src="./misc/clone.jpg" width="350" title="Example"/></p>
+    - click on the code in your repository. and code the path 
+        ![sample](.misc/clone.png?raw=true)
         ```
           git clone <link_to_your_project_in_your_repository>
         ```
