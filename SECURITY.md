@@ -30,6 +30,8 @@ This section outlines the access control policies for contributing to the projec
 - Viewing pull requests is allowed for anyone with access to the repository.
 
 ## Reporting a Vulnerability
+
+
 - Report security vulnerabilities to akhileshpra.shahi@gmail.com
 - We aim to respond within 48 hours.
 - Vulnerabilities will be triaged, and further communication will be provided based on the severity.
