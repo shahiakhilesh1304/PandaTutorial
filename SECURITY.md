@@ -30,17 +30,8 @@ This section outlines the access control policies for contributing to the projec
 - Viewing pull requests is allowed for anyone with access to the repository.
 
 ## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
-
-Provide instructions for reporting vulnerabilities, such as a dedicated email address or a link to an issue tracker.
-
 For example:
-- Report security vulnerabilities to security@example.com.
+- Report security vulnerabilities to akhileshpra.shahi@gmail.com
 - We aim to respond within 48 hours.
 - Vulnerabilities will be triaged, and further communication will be provided based on the severity.
 
