@@ -9,7 +9,8 @@ This you need to do while learning
 - Fork [Project](https://github.com/shahiakhilesh1304/PandaTutorial.git) into your repository.
 - Clone into your local directory
     - click on the code in your repository. and code the path 
-        ![sample](.misc/clone.png?raw=true)
+
+      ![sample](https://github.com/shahiakhilesh1304/PandaTutorial/blob/f05cd84be640600bc9409d85c5295671018cf643/misc/clone.png)
         ```
           git clone <link_to_your_project_in_your_repository>
         ```
